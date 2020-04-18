@@ -1,6 +1,6 @@
 # gaminghub - a platform with different games to play with friends
 
-Used tech:
-html/css/js
-node.js
-socket.io
+Used tech: <br />
+HTML/CSS/Javascript(vanilla) <br />
+Node.js <br />
+socket.io <br />
